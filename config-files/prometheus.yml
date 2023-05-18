@@ -25,4 +25,3 @@ alerting:
 # Load rules once and periodically evaluate them according to the global 'evaluation_interval'.
 rule_files:
   - alert_rules.yml
-  - alert_rules2.yml
